@@ -16,12 +16,14 @@ export default function RootLayout({ children }) {
               <li><Link href="/">Home</Link></li>
               <li><Link href="/">Palestrantes</Link></li>
               <li><Link href="/">Encontros</Link></li>
-              <li><Link href="/form">Quer participar?</Link></li>
+              <li><Link href="/formulario">Quer participar?</Link></li>
             </ul>
           </nav>
         </header>
 
-        <main>{children}</main>
+        <main>
+          {children}
+        </main>
 
         <footer>
           <p>&copy;2025 - Todos os direitos reservados</p>

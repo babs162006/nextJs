@@ -1,12 +1,11 @@
 import './home.css';
-
+import Image from "next/image";
 
 export default function Home() {
   return (
     <>
-      {/* Mantendo exatamente seu HTML */}
       <section className="anuncio">
-        <img src="/anuncio4.png" alt="Anúncio" />
+        <img src="/images/anuncio4.png" alt="Anúncio" />
       </section>
 
       <section className="tudo">
