@@ -12,11 +12,11 @@ export default function RootLayout({ children }) {
         <header>
           <nav className="header-nav">
             <ul>
-              <li><img src="/lw.jpeg" alt="Logo" /></li>
+              <li><img src="/images/lw.jpeg" alt="Logo" /></li>
               <li><Link href="/">Home</Link></li>
               <li><Link href="/">Palestrantes</Link></li>
               <li><Link href="/">Encontros</Link></li>
-              <li><Link href="/formulario">Quer participar?</Link></li>
+              <li><Link href="">Quer participar?</Link></li>
             </ul>
           </nav>
         </header>
