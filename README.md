@@ -17,6 +17,8 @@ Ao atuar de forma extensionista, nosso projeto ajuda a construir pontes entre co
 
 # Vantagem da migração para componentes ReactJS
 
+A migração para componentes ReactJS traz diversas vantagens tanto no desenvolvimento quanto na manutenção de aplicações web. Com ReactJS, há maior modularidade do código, dado que cada parte da interface é dividida em componentes independentes e reutilizáveis, o que facilita a organização do projeto, reduz a duplicação de código e aumenta a produtividade. Outra vantagem significativa é a atualização eficiente da interface por meio do Virtual DOM, que torna as renderizações mais rápidas e melhora a experiência do usuário. Além disso, o ecossistema do React oferece uma ampla comunidade, bibliotecas complementares e integração facilitada com frameworks modernos, o que torna o desenvolvimento mais ágil e escalável.
+
 # Trechos de código 
 
 # Aprendizados
